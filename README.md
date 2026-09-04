@@ -2,7 +2,7 @@
 
 ### Godot 4 Developer · Multiplayer Architecture · Game Systems
 
-Computer Engineer with 5+ years in game development and 6 shipped titles.
+Computer Engineer with 5+ years in game development.
 I build the systems underneath games: authoritative servers, real-time state
 sync, combat and economy loops, and the level design that holds them together.
 
