@@ -6,7 +6,7 @@ Computer Engineer with 5+ years in game development.
 I build the systems underneath games: authoritative servers, real-time state
 sync, combat and economy loops, and the level design that holds them together.
 
-Currently working on **Boreal**, shipping to Steam in December 2026.
+Currently working on **MiniMetaMon** and **Boreal**.
 
 ---
 
